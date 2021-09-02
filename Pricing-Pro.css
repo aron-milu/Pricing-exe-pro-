@@ -1,0 +1,52 @@
+.header {
+    border:1px solid green;
+    background-color: rgb(167, 202, 26);
+    width: 200px;
+    margin: 10%;
+}
+
+h6 {
+    margin-bottom: 14px;
+    padding: 5px;
+    color: honeydew;
+    text-align: center;
+    font-size: 12px;
+}
+
+.btn-success-caster-1{
+    background-color: rgb(125, 110, 103) !important;
+    border: 1px solid rgb(125, 110, 103) !important; 
+}
+.btn-success-caster{
+    background-color: rgb(167, 202, 26) !important;
+    border: 1px solid rgb(167, 202, 26) !important;
+}
+.btn-success-caster-2{
+    background-color: rgb(76, 125, 165) !important;
+    border: 1px solid rgb(76, 125, 165) !important;
+}
+
+.cast-color {
+    background-color: #a7ca1a;
+}
+.borderless{
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+table, th, td{
+    text-align: center;
+}
+.td-caster{
+    text-align: left;
+}
+
+
+ 
